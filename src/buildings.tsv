@@ -1,0 +1,221 @@
+name	number	deck	abc	color
+Goldsmith	A501	Salmon	A	Whenever
+Witch Square	A502	Salmon	A	Special Ability
+Jetty Extension	A503	Salmon	A	Whenever
+Firewood Trader	A504	Salmon	A	Immediately
+Direct Sale	A505	Salmon	A	Anytime
+Fish Basin	A506	Salmon	A	Whenever
+Care Center	A507	Salmon	A	Immediately
+Timber Storage	A508	Salmon	A	Immediately
+Stake Holding	A509	Salmon	A	Whenever
+Alehouse	A510	Salmon	A	Immediately
+Fish Container	A511	Salmon	A	Whenever
+Lord's Estate	A512	Salmon	A	Special Ability
+Wood Carver	A513	Salmon	A	Whenever
+Tavern	A514	Salmon	A	Special Ability
+Day Tripper Bar	A515	Salmon	A	Whenever
+Wet Dock	A516	Salmon	A	Whenever
+Estate	A517	Salmon	A	Immediately
+Salmon Yard	A518	Salmon	A	Immediately
+Banquet House	B521	Salmon	B	Once
+Barrel Maker	B522	Salmon	B	Anytime
+Goldfish Basin	B523	Salmon	B	Immediately
+Fish Tank	B524	Salmon	B	Immediately
+Park	B525	Salmon	B	Once
+Forest House	B526	Salmon	B	Whenever
+Forest Park	B527	Salmon	B	Whenever
+Log Depot	B528	Salmon	B	Immediately
+Cargo Service	B529	Salmon	B	Once
+Smoke Chamber	B530	Salmon	B	Whenever
+Immediate Bank	B531	Salmon	B	Immediately
+Undertaker	B532	Salmon	B	Immediately
+Trust Company	C541	Salmon	C	Whenever
+Meyerhof	C542	Salmon	C	Special Ability
+Princely House	C543	Salmon	C	Whenever
+Food Counter	C544	Salmon	C	Whenever
+Sea Port	C545	Salmon	C	Immediately
+Port of Transit	C546	Salmon	C	Victory Points
+Playground	C547	Salmon	C	Victory Points
+Banking House	C548	Salmon	C	Victory Points
+Fisherman's Yard	C549	Salmon	C	Victory Points
+Woodcutter	C550	Salmon	C	Victory Points
+Natural Reserve	C551	Salmon	C	Victory Points
+Jewelry Store	C552	Salmon	C	Victory Points
+Hotel Bar	C553	Salmon	C	Victory Points
+Building Control	C554	Salmon	C	Victory Points
+Pond	A401	Plaice	A	Immediately
+Fishing Shore	A402	Plaice	A	Whenever
+Alluvial Forest	A403	Plaice	A	Whenever
+Fish n'Chips	A404	Plaice	A	Immediately
+Forest Office	A405	Plaice	A	Once
+Agency	A406	Plaice	A	Whenever
+Market Place	A407	Plaice	A	Whenever
+Net Weaver	A408	Plaice	A	Immediately
+Forest Yard	A409	Plaice	A	Whenever
+Dry Dock	A410	Plaice	A	Whenever
+Fishing Frames	A411	Plaice	A	Immediately
+Civic Office	A412	Plaice	A	Whenever
+Pawnshop	A413	Plaice	A	Anytime
+Smokehouse	A414	Plaice	A	Immediately
+Boat Rental	A415	Plaice	A	Immediately
+Export Hall	A416	Plaice	A	Whenever
+Salmon Farm	A417	Plaice	A	Whenever
+Wood Farm	A418	Plaice	A	Immediately
+Shavings Club	B421	Plaice	B	Immediately
+Marina	B422	Plaice	B	Immediately
+Wood Harbor	B423	Plaice	B	Once
+Harbor Office	B424	Plaice	B	Whenever
+Workhouse	B425	Plaice	B	Immediately
+Truffle Pig	B426	Plaice	B	Immediately
+Fishing Office	B427	Plaice	B	Immediately
+Fishmeal Plant	B428	Plaice	B	Immediately
+Sawmill	B429	Plaice	B	Anytime
+Discharge	B430	Plaice	B	Immediately
+Nightclub	B431	Plaice	B	Special Ability
+Farm	B432	Plaice	B	Victory Points
+Retreat	C441	Plaice	C	Once
+Ferry Company	C442	Plaice	C	Once
+Fish Venue	C443	Plaice	C	Immediately
+Hotel	C444	Plaice	C	Once
+Headquarters	C445	Plaice	C	Immediately
+Monument	C446	Plaice	C	Special Ability
+Auction Hall	C447	Plaice	C	Victory Points
+Folly	C448	Plaice	C	Immediately
+Wood Yard	C449	Plaice	C	Victory Points
+Canteen	C450	Plaice	C	Victory Points
+Model Harbor	C451	Plaice	C	Victory Points
+Waterfront Chapel	C452	Plaice	C	Victory Points
+Transshipment	C453	Plaice	C	Victory Points
+Wharf Hall	C454	Plaice	C	Immediately
+Bird Colony	A201	Mackerel	A	Immediately
+Worker's Cottage	A202	Mackerel	A	Whenever
+Fisher's Cottage	A203	Mackerel	A	Whenever
+Fish Trade	A204	Mackerel	A	Anytime
+Forester's Cottage	A205	Mackerel	A	Immediately
+Logger's Pond	A206	Mackerel	A	Whenever
+Youth Center	A207	Mackerel	A	Whenever
+Youth Hostel	A208	Mackerel	A	Whenever
+Net Pen	A209	Mackerel	A	Immediately
+Laborer Square	A210	Mackerel	A	Whenever
+Rigging Workshop	A211	Mackerel	A	Whenever
+Supply Storage	A212	Mackerel	A	Special Ability
+Clearing	A213	Mackerel	A	Whenever
+Building Company	A214	Mackerel	A	Whenever
+Chief's House	A215	Mackerel	A	Whenever
+Purveyor	A216	Mackerel	A	Whenever
+Cold Storage	A217	Mackerel	A	Special Ability
+Stock Management	A218	Mackerel	A	Special Ability
+Poor House	B221	Mackerel	B	Immediately
+Smoking Cottage	B222	Mackerel	B	Immediately
+Ship Broker	B223	Mackerel	B	Anytime
+Water Tower	B224	Mackerel	B	Immediately
+Sailor's Home	B225	Mackerel	B	Immediately
+Driftwood Rafting	B226	Mackerel	B	Whenever
+Ranger's Office	B227	Mackerel	B	Whenever
+Stilt House	B228	Mackerel	B	Immediately
+Whaling Station	B229	Mackerel	B	Once
+Manufacture	B230	Mackerel	B	Anytime
+Residence	B231	Mackerel	B	Immediately
+Play House	B232	Mackerel	B	Victory Points
+Bank Center	C241	Mackerel	C	Immediately
+Nursery	C242	Mackerel	C	Special Ability
+Longhouse	C243	Mackerel	C	Special Ability
+Fishhouse	C244	Mackerel	C	Victory Points
+Shipping Museum	C245	Mackerel	C	Immediately
+Depot	C246	Mackerel	C	Victory Points
+Boarding House	C247	Mackerel	C	Victory Points
+Harbor Gate	C248	Mackerel	C	Victory Points
+Market Tower	C249	Mackerel	C	Victory Points
+Inshore Fishery	C250	Mackerel	C	Victory Points
+Chancellery	C251	Mackerel	C	Victory Points
+Rich Forest	C252	Mackerel	C	Victory Points
+Renting Service	C253	Mackerel	C	Victory Points
+Docking Harbor	C254	Mackerel	C	Victory Points
+Boathouse	A101	Herring	A	Immediately
+Boatbuilder	A102	Herring	A	Immediately
+Fish Stand	A103	Herring	A	Immediately
+Yard	A104	Herring	A	Immediately
+Pier House	A105	Herring	A	Whenever
+Forest Lake Hut	A106	Herring	A	Whenever
+Arboretum	A107	Herring	A	Immediately
+Village Center	A108	Herring	A	Immediately
+Raftbuilder	A109	Herring	A	Whenever
+Forester's House	A110	Herring	A	Immediately
+Slipway	A111	Herring	A	Special Ability
+Wet Storage	A112	Herring	A	Special Ability
+Portal	A113	Herring	A	Immediately
+Joinery	A114	Herring	A	Whenever
+Angler's House	A115	Herring	A	Immediately
+Fisher's House	A116	Herring	A	Whenever
+Shipping Office	A117	Herring	A	Special Ability
+Theater	A118	Herring	A	Victory Points
+Parish House	B121	Herring	B	Immediately
+Trading House	B122	Herring	B	Anytime
+Resource Trade	B123	Herring	B	Anytime
+Wood Trade	B124	Herring	B	Anytime
+Dairy	B125	Herring	B	Special Ability
+Town Hall	B126	Herring	B	Immediately
+Sawmill	B127	Herring	B	Whenever
+Seafaring Society	B128	Herring	B	Whenever
+Lighthouse	B129	Herring	B	Special Ability
+Ship Holding Co.	B130	Herring	B	Whenever
+Residential Home	B131	Herring	B	Whenever
+Boatcarver	B132	Herring	B	Victory Points
+Boardwalk	C141	Herring	C	Immediately
+Shipping Lane	C142	Herring	C	Immediately
+Wharf	C143	Herring	C	Once
+Fish Market	C144	Herring	C	Immediately
+Market Hall	C145	Herring	C	Immediately
+Retirement Home	C146	Herring	C	Immediately
+Fortress	C147	Herring	C	Special Ability
+Castle	C148	Herring	C	Victory Points
+Aquarium	C149	Herring	C	Victory Points
+Village Church	C150	Herring	C	Victory Points
+Harbor Installation	C151	Herring	C	Victory Points
+Swing-Net Fishery	C152	Herring	C	Victory Points
+Manor	C153	Herring	C	Victory Points
+Small Forest Castle	C154	Herring	C	Victory Points
+Forest Storage	A301	Codfish	A	Whenever
+Holiday Resort	A302	Codfish	A	Whenever
+Refuge	A303	Codfish	A	Whenever
+Head Office	A304	Codfish	A	Immediately
+Office	A305	Codfish	A	Immediately
+Construction Yard	A306	Codfish	A	Whenever
+Forestry	A307	Codfish	A	Whenever
+Woodcarver	A308	Codfish	A	Whenever
+Collection Point	A309	Codfish	A	Immediately
+Cooperage	A310	Codfish	A	Anytime
+Forest Hut	A311	Codfish	A	Whenever
+Wood Exchange	A312	Codfish	A	Anytime
+Cooling House	A313	Codfish	A	Immediately
+Hideaway	A314	Codfish	A	Immediately
+Reserve Depot	A315	Codfish	A	Special Ability
+Holding Company	A316	Codfish	A	Special Ability
+Park Lodge	A317	Codfish	A	Immediately
+Haulage Firm	A318	Codfish	A	Whenever
+Dockhouse	B321	Codfish	B	Immediately
+Harbor Park	B322	Codfish	B	Once
+Rathskeller	B323	Codfish	B	Immediately
+Harbor Area	B324	Codfish	B	Immediately
+Stockfishery	B325	Codfish	B	Anytime
+Pond Hut	B326	Codfish	B	Immediately
+Customs Area	B327	Codfish	B	Immediately
+Boat Hall	B328	Codfish	B	Immediately
+Wood Shipping Co.	B329	Codfish	B	Once
+Forest Admin	B330	Codfish	B	Victory Points
+Club	B331	Codfish	B	Victory Points
+Villa	B332	Codfish	B	Victory Points
+Hermitage	C341	Codfish	C	Special Ability
+Repair Hall	C342	Codfish	C	Immediately
+Bank	C343	Codfish	C	Special Ability
+Extension	C344	Codfish	C	Victory Points
+Dock	C345	Codfish	C	Victory Points
+Carver	C346	Codfish	C	Victory Points
+Ballroom	C347	Codfish	C	Immediately
+Fishery	C348	Codfish	C	Victory Points
+Church	C349	Codfish	C	Victory Points
+Codfish Farm	C350	Codfish	C	Victory Points
+Forest Home	C351	Codfish	C	Victory Points
+Beach Hostel	C352	Codfish	C	Victory Points
+Fish Oil Cookery	C353	Codfish	C	Victory Points
+Administration	C354	Codfish	C	Victory Points
